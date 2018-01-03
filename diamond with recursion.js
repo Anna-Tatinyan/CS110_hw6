@@ -1,5 +1,4 @@
 const diamond = function(k, char) {
-
     const stars = function(num, character) {
         if (num <= 0) {
             return "";
